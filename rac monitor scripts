@@ -1,0 +1,2 @@
+srvctl status database -d db_name 
+srvctl config database -d
